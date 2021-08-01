@@ -19,3 +19,5 @@ const CashRegister = {
 }
 
 module.exports = CashRegister;
+
+//Comments
