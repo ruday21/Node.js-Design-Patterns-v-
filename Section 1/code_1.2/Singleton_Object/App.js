@@ -3,7 +3,7 @@ const Till1 = require('./CashRegister');
 
 Till.credit(25);
 Till.credit(35);
-
+// comments
 Till1.credit(20);
 console.log(`Total amount in Till 1 : ${Till1.total()}`);
 
